@@ -32,7 +32,9 @@ class NewsletterTest {
 	static void tearDownAfterClass() throws Exception {
 		 webDriver.quit();
 	}
-
+	
+// 															4
+	
 	@Test
 	void testNewsletter() throws InterruptedException {
 		webDriver.get(baseUrl);

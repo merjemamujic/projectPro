@@ -35,6 +35,8 @@ class CertificatesTest {
 		webDriver.quit();
 	}
 
+// 																		10	
+	
 	@Test
 	void testCertificate() throws InterruptedException {
 		webDriver.get(baseUrl);

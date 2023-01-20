@@ -34,6 +34,8 @@ class GameTest {
 		webDriver.quit();
 	}
 
+//																7	
+	
 	@Test
 	void testGame() throws InterruptedException {
 		// we open baseUrl

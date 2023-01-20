@@ -32,6 +32,8 @@ class TemplatesTest {
 	static void tearDownAfterClass() throws Exception {
 		webDriver.quit();
 	}
+	
+// 																6	
 
 	@Test
 	void testTemplates() throws InterruptedException {

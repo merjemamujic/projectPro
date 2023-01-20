@@ -34,6 +34,8 @@ class ForumTest {
 		webDriver.quit();
 	}
 
+// 																3	
+
 	@Test
 	void testForum() throws InterruptedException {
 		webDriver.get(baseUrl);
